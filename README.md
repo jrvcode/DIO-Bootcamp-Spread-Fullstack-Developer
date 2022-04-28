@@ -1,5 +1,5 @@
 # Spread Fullstack Developer
-Repositório de Utilidaes do Bootcamp
+Repositório de Utilidades do Bootcamp
 
 ## Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/)
