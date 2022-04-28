@@ -6,4 +6,4 @@ Repositório de Utilidades do Bootcamp
 
 [Cod In Game](https://www.codingame.com/)
 
-[Typora Markdown(https://typora.io/)
+[Typora Markdown](https://typora.io/)
