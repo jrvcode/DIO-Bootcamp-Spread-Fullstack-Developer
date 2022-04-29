@@ -6,6 +6,6 @@ git add .
 git commit -m "Explica a mudança"
 git status
 git push origin main
-git pullorigin main
+git pull origin main
 git remote add origin https://exemplo.git
 git remote -v
