@@ -2,7 +2,7 @@
 - Repositório de Dicas e Ferramentas do Bootcamp da DIO.
 
 ## Comandos
-- [GIT e GITHUB](https://github.com/ErikSVieira/Bootcamp-DIO-Spread-Fullstack-Developer/blob/main/comandos/dicas_git.md)
+- [GIT Bash](https://github.com/jrvcode/DIO-Bootcamp-Spread-Fullstack-Developer/blob/main/comandos/Git%20Bash.md)
 
 ## Lógica de Programação
 - Lógica de programação **GAMEFICADA**
