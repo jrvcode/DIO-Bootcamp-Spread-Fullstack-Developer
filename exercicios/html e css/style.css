@@ -1,0 +1,54 @@
+body {
+    background-color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 900px;
+    margin: auto;
+}
+
+.logo {
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+#titulo, .titulo-pagina, .titulo-artigo {
+    color: crimson;
+}
+
+.titulo-artigo {
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: line-through;
+    color: red;
+}
+
+.postagem {
+    background-color: white;
+    padding: 15px;
+    border: 3px solid black;
+    margin: 0px;
+    border-radius: 10px;
+    text-align: justify;
+}
+
+.conteudo {
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.img_artigo {
+    margin-bottom: 15px;
+    border-radius: 5px;
+    width: 100%;
+}
+
+ul {
+    list-style-type: square;
+    text-decoration: none;
+}
+
+ol {
+    list-style-type: upper-roman;
+}
