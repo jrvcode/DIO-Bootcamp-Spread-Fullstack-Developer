@@ -1,0 +1,11 @@
+git init
+git config --global user.email "seu-email@gmail.com"
+git config --global user.name "seu-usuario-git"
+git add *
+git add .
+git commit -m "Explica a mudança"
+git status
+git push origin main
+git pullorigin main
+git remote add origin https://exemplo.git
+git remote -v
