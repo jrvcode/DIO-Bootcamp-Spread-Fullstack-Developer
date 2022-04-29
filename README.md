@@ -9,3 +9,7 @@ Repositório de Utilidades do Bootcamp
 [Srcatch](https://scratch.mit.edu/)
 
 [Cod In Game](https://www.codingame.com/)
+
+[W3schools](https://www.w3schools.com/)
+
+[jQuery UI](https://jqueryui.com/)
