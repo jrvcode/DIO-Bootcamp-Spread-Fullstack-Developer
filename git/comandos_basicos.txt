@@ -3,6 +3,7 @@ git config --global user.email "seu-email@gmail.com"
 git config --global user.name "seu-usuario-git"
 git add *
 git add .
+git clone http://
 git commit -m "Explica a mudança"
 git status
 git push origin main
