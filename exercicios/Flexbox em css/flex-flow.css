@@ -2,6 +2,7 @@
     display: flex;
     border: 1px solid black;
     max-width: 500px;
+    height: 200px;
 }
 
 .defoult{
@@ -21,7 +22,7 @@
 }
 
 .rr-wrap{
-    flex-flow: row-reverse wrap-reverse;
+    flex-flow: column wrap-reverse;
 }
 
 .item{
