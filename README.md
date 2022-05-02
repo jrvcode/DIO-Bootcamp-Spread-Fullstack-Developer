@@ -5,18 +5,26 @@
 - [GIT Bash](https://github.com/jrvcode/DIO-Bootcamp-Spread-Fullstack-Developer/blob/main/comandos/Git%20Bash.md)
 
 ## Lógica de Programação
-- Lógica de programação **GAMEFICADA**
+1. Lógica de programação **GAMEFICADA**
     1. [Scratch](https://scratch.mit.edu/)
     2. [Hora do Código MINECRAFT](https://studio.code.org/s/mc/lessons/1/levels/1)
     3. [Cod In Game](https://www.codingame.com/)
 
 ## Links Úteis
+
+### Tutoriais e Referências 
+* [W3schools](https://www.w3schools.com/)
+
+### Markdown
 * [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
-* [Typora Markdown](https://typora.io/)
+### Flexbox
+* [Echoplex](https://the-echoplex.net/flexyboxes/)
+* [Flexbox Generator](https://loading.io/flexbox/)
+* [Flexbox Buildwithreact](https://flexbox.buildwithreact.com/)
 
-* [Visual Studio Code](https://visualstudio.microsoft.com/pt-br/)
 
-* [Visual Studio Code - Download](https://code.visualstudio.com/)
-* [W3schools](https://www.w3schools.com/)
-* [jQuery UI](https://jqueryui.com/)
+
+
+
+
