@@ -18,6 +18,10 @@
 ### Markdown
 * [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
+### CSS
+* [Almanac css-tricks](https://css-tricks.com/almanac/)
+* [Developer Mozilla CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
 ### Flexbox
 * [Echoplex](https://the-echoplex.net/flexyboxes/)
 * [Flexbox Generator](https://loading.io/flexbox/)
