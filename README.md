@@ -27,6 +27,9 @@
 * [Flexbox Generator](https://loading.io/flexbox/)
 * [Flexbox Buildwithreact](https://flexbox.buildwithreact.com/)
 
+### Biblioteca de ícones
+* [Font Awesome](https://fontawesome.com/)
+
 
 
 
