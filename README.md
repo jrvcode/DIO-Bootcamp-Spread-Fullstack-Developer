@@ -30,6 +30,9 @@
 ### Biblioteca de ícones
 * [Font Awesome](https://fontawesome.com/)
 
+### Banco de Imagens
+* [Pexels](https://www.pexels.com/pt-br/)
+
 
 
 
